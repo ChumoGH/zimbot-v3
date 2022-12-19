@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮ᴄɢʜ-ʙᴏᴛ•ɪɴɢ 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['593987072611','']
+global.premium = ['593987072611','']
+global.botname = 'ᴄɢʜ-ʙᴏᴛ•ɪɴɢ'
+global.ownername = 'ChumoGH'
+global.group1 = 'https://chat.whatsapp.com/HWbCAsg2EhQKxSSkaaOHsv'
+global.group2 = 'https://linkvertise.com/548561/chumogh-group/'
+global.packname = 'ᴄɢʜ-ʙᴏᴛ•ɪɴɢ'
+global.ytchannel = 'https://youtu.be/BTpCTEeY_B8'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'ᴄɢʜ-ʙᴏᴛ•ɪɴɢ'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://github.com/ChumoGH/ChumoGH-Script/raw/master/html/post.mp4' }
+global.vid = { url: 'https://github.com/ChumoGH/ChumoGH-Script/raw/master/html/post.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
