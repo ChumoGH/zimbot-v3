@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮CGH-BOT•ING 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -77,7 +77,7 @@ async function startZimBotInc() {
     const ZimBotInc = ZimBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['ZIM BOT INC','Safari','1.0.0'],
+        browser: ['CGH-BOT•ING','Safari','1.0.0'],
         auth: state
     })
 
@@ -144,53 +144,53 @@ let feler = pickRandom(doku)
                 if (anu.action == 'add') {
                 var buffer = await getBuffer(ppuser)
                 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                he = `Welcome To ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-                let link = `https://youtu.be/ww4z2m3uORU`
+                he = `Hola @${num.split("@")[0]} \n Bienvenido a ${metadata.subject}\n`
+                let link = `festyy.com/eff4il`
 let buttons = [
-{buttonId: `halo`, buttonText: {displayText: 'WELCOME'}, type: 1}
+{buttonId: `halo`, buttonText: {displayText: 'GRACIAS'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `Welcome To ${metadata.subject}`,
+fileName: `Bienvenido a ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©𝙲𝚑𝚞𝚖𝚘𝙶𝙷•𝙱𝙾𝚃`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `Don't forget to smile today`,
-body: `SUBSCRIBE DRIPS OFC`,
-mediaType:2,
+title: `Invitacion por enlace, by @ChumoGH`,
+body: `Bienvenido al GRUPO`,
+mediaType:1,
 thumbnail: buffer,
 sourceUrl: link,
-mediaUrl: link,
+//mediaUrl: link,
 }}
 }
 ZimBotInc.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
                 } else if (anu.action == 'remove') {
                     let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    he = `He/She is gone bro ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-                    let link = `https://youtu.be/ww4z2m3uORU`
+                    he = `Adios querido @${num.split("@")[0]}, ${metadata.subject} te despide.\n\n${metadata.desc}`
+                    let link = `https://youtu.be/BTpCTEeY_B8`
 let buttons = [
-{buttonId: `halo`, buttonText: {displayText: 'BYE'}, type: 1}
+{buttonId: `halo`, buttonText: {displayText: 'DESPEDIR'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `He/She is gone bro ${metadata.subject}`,
+fileName: `ADIOS @${num.split("@")[0]}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©CGH-BOT•ING 2023`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `BYE DONT COME BACK HERE OKAY`,
-body: `SUBSCRIBE DRIPS OFC`,
+title: `ADIOS, ESPERAMOS QUE NO VUELVAS`,
+body: `NO OLVIDES QUE TE ODIAMOS`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
